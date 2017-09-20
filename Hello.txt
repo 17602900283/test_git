@@ -4,5 +4,9 @@ hello word！！！！！！
 Hello word json！！！！！！
 git github !!!!!
 hello git!
-create ||creating new branch dev!
+<<<<<<< HEAD
+create or creating new branch dev!
+=======
+create or creating new branch dev!
+>>>>>>> dev
 
